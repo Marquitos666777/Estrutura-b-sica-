@@ -6,7 +6,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-image: url('.jpeg'); /* Substitua 'background.jpg' pela sua imagem de plano de fundo */
+            background-image: url('imagens.jpeg'); /* Substitua 'background.jpg' pela sua imagem de plano de fundo */
             background-size: cover;
         }
         .container {
