@@ -40,17 +40,17 @@
         </div>
         <div class="main-content">
             <p>A tecnologia na educação é uma ferramenta essencial que enriquece o processo de aprendizagem, permitindo acesso a informações atualizadas, fomentando a interatividade e facilitando o ensino personalizado.</p>
-            <img src="technology-in-education.jpg" alt="Tecnologia na Educação" style="max-width: 100%;">
+            <img src="1.jpg" alt="Tecnologia na Educação" style="max-width: 100%;">
             <!-- Substitua 'technology-in-education.jpg' pela sua imagem -->
             <video width="100%" controls>
-                <source src="educational-video.mp4" type="video/mp4">
+                <source src="https://m.youtube.com/watch?v=ML1fgVfxuRU&pp=ygUadGVjbm9sb2dpYSBkYSBpbmZvcm1hw6fDo28%3D" type="video/mp4">
                 <!-- Substitua 'educational-video.mp4' pelo seu vídeo -->
                 Seu navegador não suporta vídeo HTML5.
             </video>
         </div>
         <div class="social-media-buttons">
-            <a href="https://www.instagram.com/seuusuario" target="_blank" class="social-media-button">Instagram</a>
-            <a href="https://www.facebook.com/seuusuario" target="_blank" class="social-media-button">Facebook</a>
+            <a href="https://www.instagram.com/NãoTenho" target="_blank" class="social-media-button">Instagram</a>
+            <a href="https://www.facebook.com/Marcos Vinícius" target="_blank" class="social-media-button">Facebook</a>
         </div>
         <div class="footer">
             <p>&copy; 2024 Seu Nome. Todos os direitos reservados.</p>
