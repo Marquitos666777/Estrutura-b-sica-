@@ -53,7 +53,7 @@
             <a href="https://www.facebook.com/Marcos Vinícius" target="_blank" class="social-media-button">Facebook</a>
         </div>
         <div class="footer">
-            <p>&copy; 2024 Seu Nome. Todos os direitos reservados.</p>
+            <p>&copy; 2024 Marcos Vinícius. Todos os direitos reservados.</p>
         </div>
     </div>
 
